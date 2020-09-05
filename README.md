@@ -3,9 +3,9 @@
     
 # Base de datos
  En la carpeta GestionAula/Base de datos se encuentra:
-    <br/>*La query sql contiene la base de datos completa y las inserciones para las tablas usuario y aulas
-    <br/>*Utilizando el import de phpmyadmin tenemos los .csv Cursosfinal y horarios, esto para cada tabla respectiva de cursos y reservas:
-      <br/> En el import de phpMyAdmin luego de cargar el archivo .csv las configuraciones especificas del formato son las siguientes:
+    <br/>1. La query sql contiene la base de datos completa y las inserciones para las tablas usuario y aulas
+    <br/>2. Utilizando el import de phpmyadmin tenemos los .csv Cursosfinal y horarios, esto para cada tabla respectiva de cursos y reservas:
+      <br/>3. En el import de phpMyAdmin luego de cargar el archivo .csv las configuraciones especificas del formato son las siguientes:
            <br/> - Columnas separadas por: ;
            <br/>- Columnas encerradas entre: "vacio"
            <br/> - Caracter de escape de columnas: "vacio"
